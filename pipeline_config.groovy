@@ -1,4 +1,0 @@
-@commit libraries{
-    maven
-    sonarqube
-}
